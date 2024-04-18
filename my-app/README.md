@@ -32,3 +32,6 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
+## Context
+Created with Copilot, ChatGPT, using https://chat.openai.com/share/cc3ac604-9ec8-4b9a-9874-0178f429d5fc
